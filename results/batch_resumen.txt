@@ -1,0 +1,3 @@
+Report saved: C:\Users\stfra\Desktop\algoritmos\proyecto\projecto-analisis-20261\results\batch_reporte_por_k.csv
+Raw results: C:\Users\stfra\Desktop\algoritmos\proyecto\projecto-analisis-20261\results\batch_resultados.csv
+KGeoMIP faster on 0 k-values; KQNodes faster on 4 k-values

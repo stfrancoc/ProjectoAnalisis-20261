@@ -1,0 +1,233 @@
+red,k,estrategia,delta,tiempo,error
+N10A.csv,2,KGeoMIP,0.4697265625,0.08260369300842285,
+N10A.csv,3,KGeoMIP,4.34375,0.08260369300842285,
+N10A.csv,4,KGeoMIP,4.38671875,0.07350373268127441,
+N10A.csv,3,KQNodes,0.9921875,0.5856349468231201,
+N10A.csv,2,KQNodes,0.48046875,0.5856349468231201,
+N10A.csv,4,KQNodes,1.5078125,0.5635964870452881,
+N10A.csv,5,KGeoMIP,4.4140625,0.09656190872192383,
+N10A.csv,5,KQNodes,2.5078125,0.554985761642456,
+N15A.csv,3,KGeoMIP,0.9988029599189758,2.791792631149292,
+N15A.csv,2,KGeoMIP,0.026790210977196693,2.9906246662139893,
+N15A.csv,2,KQNodes,0.13938508927822113,3.088083267211914,
+N15A.csv,3,KQNodes,0.27879154682159424,3.089996576309204,
+N15A.csv,4,KQNodes,0.4182477593421936,3.2357115745544434,
+N15A.csv,5,KGeoMIP,1.0751842260360718,3.1793055534362793,
+N15A.csv,5,KQNodes,0.5577158331871033,3.3419814109802246,
+N15A.csv,4,KGeoMIP,1.0008379220962524,3.5162971019744873,
+N15B.csv,2,KQNodes,0.0,3.1106719970703125,
+N15B.csv,3,KGeoMIP,0.02277703583240509,2.916107177734375,
+N15B.csv,2,KGeoMIP,0.0,3.2546546459198,
+N15B.csv,3,KQNodes,0.0,3.1877386569976807,
+N15B.csv,4,KQNodes,0.0,3.072244644165039,
+N15B.csv,4,KGeoMIP,0.037385910749435425,2.9298441410064697,
+N15B.csv,5,KGeoMIP,0.04526684433221817,3.0109500885009766,
+N15B.csv,5,KQNodes,0.0,3.163057804107666,
+N20A.csv,2,KQNodes,0.4992961883544922,44.76096963882446,
+N20A.csv,3,KQNodes,0.9989147186279297,45.81475210189819,
+N20A.csv,4,KQNodes,1.4985857009887695,45.06275939941406,
+N20A.csv,5,KQNodes,1.998274803161621,43.390013217926025,
+N20A.csv,3,KGeoMIP,9.99618911743164,174.25741910934448,
+N20A.csv,2,KGeoMIP,0.4992961883544922,184.73103523254395,
+N20A.csv,4,KGeoMIP,10.004135131835938,175.80458736419678,
+N22A.csv,2,KQNodes,0.49979329109191895,125.91346549987793,
+N20A.csv,5,KGeoMIP,10.013067245483398,180.74964833259583,
+N22A.csv,3,KQNodes,0.9996538162231445,131.93663096427917,
+N22A.csv,4,KQNodes,1.4997766017913818,120.13466429710388,
+N22A.csv,5,KQNodes,1.9999067783355713,112.53086137771606,
+N22A.csv,2,KGeoMIP,0.4996371269226074,988.7516162395477,
+N22A.csv,3,KGeoMIP,10.983409881591797,1010.2162849903107,
+N22A.csv,4,KGeoMIP,10.99694538116455,1052.3171110153198,
+N25A.csv,3,KQNodes,,,MemoryError: 
+N25A.csv,3,KGeoMIP,,,MemoryError: 
+N25A.csv,4,KQNodes,,,MemoryError: 
+N25A.csv,2,KGeoMIP,,,MemoryError: 
+N25A.csv,5,KQNodes,,,MemoryError: 
+N25A.csv,4,KGeoMIP,,,MemoryError: 
+N2A.csv,2,KQNodes,0.0,0.18282866477966309,
+N2A.csv,2,KGeoMIP,0.0,0.02180933952331543,
+N2A.csv,3,KQNodes,0.5,0.017797231674194336,
+N2A.csv,3,KGeoMIP,1.0,0.009770393371582031,
+N2A.csv,4,KQNodes,1.0,0.0,
+N2A.csv,4,KGeoMIP,1.0,0.015639305114746094,
+N2A.csv,5,KQNodes,,,"ValueError: k inválido: se requiere 2 <= k <= m (m=4 nodos particionables), pero se recibió k=5."
+N2A.csv,5,KGeoMIP,,,"ValueError: k inválido: se requiere 2 <= k <= m (m=4 nodos particionables), pero se recibió k=5."
+N3A.csv,2,KQNodes,0.5,0.019500732421875,
+N3A.csv,2,KGeoMIP,0.25,0.015779733657836914,
+N3A.csv,3,KQNodes,0.5,0.01570439338684082,
+N3A.csv,3,KGeoMIP,1.5,0.01571035385131836,
+N3A.csv,4,KQNodes,0.75,0.031589508056640625,
+N3A.csv,4,KGeoMIP,1.5,0.01564788818359375,
+N3A.csv,5,KQNodes,1.25,0.015735149383544922,
+N3A.csv,5,KGeoMIP,1.5,0.01145172119140625,
+N3B.csv,2,KQNodes,0.875,0.03161430358886719,
+N3B.csv,2,KGeoMIP,0.46875,0.015950918197631836,
+N3B.csv,3,KQNodes,0.9375,0.02330493927001953,
+N3B.csv,3,KGeoMIP,1.5,0.015723705291748047,
+N3B.csv,4,KQNodes,0.96875,0.015641450881958008,
+N3B.csv,4,KGeoMIP,1.21875,0.015654802322387695,
+N3B.csv,5,KQNodes,1.21875,0.03139376640319824,
+N3B.csv,5,KGeoMIP,1.71875,0.015715360641479492,
+N3C.csv,2,KQNodes,0.0,0.03463435173034668,
+N3C.csv,2,KGeoMIP,0.0,0.012412786483764648,
+N3C.csv,3,KQNodes,0.0,0.015670061111450195,
+N3C.csv,3,KGeoMIP,1.0,0.03147411346435547,
+N3C.csv,4,KQNodes,0.5,0.0376894474029541,
+N3C.csv,4,KGeoMIP,1.5,0.025203227996826172,
+N3C.csv,5,KQNodes,1.0,0.031287193298339844,
+N3C.csv,5,KGeoMIP,1.5,0.031864166259765625,
+N4A.csv,2,KQNodes,0.0,0.0524442195892334,
+N4A.csv,2,KGeoMIP,0.0,0.02613663673400879,
+N4A.csv,3,KQNodes,0.5,0.047338247299194336,
+N4A.csv,3,KGeoMIP,1.25,0.045806884765625,
+N4A.csv,4,KQNodes,0.5,0.033056020736694336,
+N4A.csv,4,KGeoMIP,1.375,0.03151583671569824,
+N4A.csv,5,KQNodes,0.625,0.05150866508483887,
+N4A.csv,5,KGeoMIP,1.375,0.03340649604797363,
+N4B.csv,2,KQNodes,0.0,0.052584171295166016,
+N4B.csv,2,KGeoMIP,0.0,0.03156852722167969,
+N4B.csv,3,KQNodes,0.5249999761581421,0.04727506637573242,
+N4B.csv,3,KGeoMIP,1.0499999523162842,0.04721498489379883,
+N4B.csv,4,KQNodes,0.875,0.04724860191345215,
+N4B.csv,4,KGeoMIP,1.5749999284744263,0.04717230796813965,
+N4B.csv,5,KQNodes,1.0499999523162842,0.04655170440673828,
+N4B.csv,5,KGeoMIP,2.0999999046325684,0.047319650650024414,
+N4C.csv,2,KQNodes,0.0,0.0476984977722168,
+N4C.csv,2,KGeoMIP,0.0,0.04740023612976074,
+N4C.csv,3,KQNodes,0.5,0.06067633628845215,
+N4C.csv,3,KGeoMIP,1.0,0.04519486427307129,
+N4C.csv,4,KQNodes,1.0,0.049401044845581055,
+N4C.csv,4,KGeoMIP,1.0,0.0474550724029541,
+N4C.csv,5,KQNodes,1.0,0.07868552207946777,
+N4C.csv,5,KGeoMIP,1.0,0.046973228454589844,
+N5A.csv,2,KQNodes,0.0,0.11026668548583984,
+N5A.csv,2,KGeoMIP,0.0,0.07084774971008301,
+N5A.csv,3,KQNodes,0.0,0.10573172569274902,
+N5A.csv,3,KGeoMIP,1.0,0.06174945831298828,
+N5A.csv,4,KQNodes,0.0,0.09847140312194824,
+N5A.csv,4,KGeoMIP,1.375,0.0434262752532959,
+N5A.csv,5,KQNodes,0.5,0.09634184837341309,
+N5A.csv,5,KGeoMIP,1.875,0.060645341873168945,
+N5B.csv,2,KQNodes,0.5,0.09452939033508301,
+N5B.csv,2,KGeoMIP,0.125,0.06324005126953125,
+N5B.csv,3,KQNodes,0.5,0.11083221435546875,
+N5B.csv,3,KGeoMIP,1.375,0.06267023086547852,
+N5B.csv,4,KQNodes,0.625,0.09534978866577148,
+N5B.csv,4,KGeoMIP,2.125,0.0784919261932373,
+N5B.csv,5,KQNodes,1.125,0.09475302696228027,
+N5B.csv,5,KGeoMIP,2.5,0.07921528816223145,
+N6A.csv,2,KQNodes,0.484375,0.15971064567565918,
+N6A.csv,2,KGeoMIP,0.46875,0.07842159271240234,
+N6A.csv,3,KQNodes,1.109375,0.1539781093597412,
+N6A.csv,3,KGeoMIP,2.65625,0.08974003791809082,
+N6A.csv,4,KQNodes,1.859375,0.16724777221679688,
+N6A.csv,4,KGeoMIP,3.0625,0.0684669017791748,
+N6A.csv,5,KQNodes,2.296875,0.17681407928466797,
+N6A.csv,5,KGeoMIP,3.0625,0.09132671356201172,
+N8A.csv,2,KQNodes,0.0,0.39345574378967285,
+N8A.csv,2,KGeoMIP,0.0,0.10886764526367188,
+N8A.csv,3,KQNodes,0.0,0.3473198413848877,
+N8A.csv,3,KGeoMIP,1.0,0.09347867965698242,
+N8A.csv,4,KQNodes,0.0,0.3364744186401367,
+N8A.csv,4,KGeoMIP,1.5,0.09438276290893555,
+N8A.csv,5,KQNodes,0.0,0.3910658359527588,
+N8A.csv,5,KGeoMIP,2.0,0.11053705215454102,
+N10A.csv,2,KQNodes,0.48046875,0.6687295436859131,
+N10A.csv,2,KGeoMIP,0.4697265625,0.1598060131072998,
+N10A.csv,3,KQNodes,0.9921875,0.6599891185760498,
+N10A.csv,3,KGeoMIP,4.34375,0.1473219394683838,
+N10A.csv,4,KQNodes,1.5078125,0.6270952224731445,
+N10A.csv,4,KGeoMIP,4.38671875,0.13881969451904297,
+N10A.csv,5,KQNodes,2.5078125,0.6210842132568359,
+N10A.csv,5,KGeoMIP,4.4140625,0.14555096626281738,
+N15A.csv,2,KQNodes,0.13938508927822113,3.096348524093628,
+N15A.csv,2,KGeoMIP,0.026790210977196693,3.035346031188965,
+N15A.csv,3,KQNodes,0.27879154682159424,3.1219680309295654,
+N15A.csv,3,KGeoMIP,0.9988029599189758,2.962144613265991,
+N15A.csv,4,KQNodes,0.4182477593421936,3.0959479808807373,
+N15A.csv,4,KGeoMIP,1.0008379220962524,2.7929086685180664,
+N15A.csv,5,KQNodes,0.5577158331871033,3.0849339962005615,
+N15A.csv,5,KGeoMIP,1.0751842260360718,2.778014898300171,
+N15B.csv,2,KQNodes,0.0,2.8350255489349365,
+N15B.csv,2,KGeoMIP,0.0,2.837921380996704,
+N15B.csv,3,KQNodes,0.0,2.891934394836426,
+N15B.csv,3,KGeoMIP,0.02277703583240509,3.246760606765747,
+N15B.csv,4,KQNodes,0.0,2.8822922706604004,
+N15B.csv,4,KGeoMIP,0.037385910749435425,2.8271918296813965,
+N15B.csv,5,KQNodes,0.0,2.9079151153564453,
+N15B.csv,5,KGeoMIP,0.04526684433221817,3.156777858734131,
+N3A.csv,2,KQNodes,0.5,0.14812111854553223,
+N3A.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3A.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3A.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3A.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3A.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3A.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3A.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N3B.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4A.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4B.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N4C.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5A.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N5B.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N6A.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,2,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,2,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,3,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,3,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,4,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,4,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,5,KQNodes,,,RecursionError: maximum recursion depth exceeded
+N8A.csv,5,KGeoMIP,,,RecursionError: maximum recursion depth exceeded
+N25A.csv,5,KGeoMIP,,,MemoryError: 
+N22A.csv,5,KGeoMIP,11.003893852233887,2140.773204803467,
+N25A.csv,2,KQNodes,0.4998137950897217,788.9879322052002,
